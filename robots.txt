@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /shukran.html
-
-Sitemap: https://shira-taqyimat.com/sitemap.xml
